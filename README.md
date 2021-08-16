@@ -34,6 +34,14 @@ Among all Tkinter is most widely used
 | Text | It allows user to edit multiline text and format the way it has to be displayed |
 | Menu | It is used to create all kinds of menu used by an application |
 
+
+## Geometric configuration of the widgets
+
+tkinter also offers access to the geometric configuration of the widgets which can organize the widgets in the parent windows. There are mainly three geometry manager class.
+* pack() method :  It organizes the widgets in blocks before placing in the parent widget.
+* grid() method :  It organizes the widgets in grid (table-like structure) before placing in the parent widget.
+* place() method : It organizes the widgets by placing them on specific positions directed by the programmer.
+
 ## Example
 ```
 from tkinter import *
