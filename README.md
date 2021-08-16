@@ -34,5 +34,22 @@ Among all Tkinter is most widely used
 | Text | It allows user to edit multiline text and format the way it has to be displayed |
 | Menu | It is used to create all kinds of menu used by an application |
 
+## Example
+```
+from tkinter import *
+
+window = Tk()
+window.title("GUI tkinter")
+
+label_text = "Hello World!"
+
+label1 = Label(window, text=label_text)
+
+label1.pack()
+window.geometry("100x100")
+window.mainloop()
+```
+
+
 
 
