@@ -8,7 +8,7 @@ Some other Python Libraries available for creating our own GUI applications are
 
 - Kivy
 - Python Qt
-- wxPython
+- wxPython ,
 Among all Tkinter is most widely used
 
 ## Fundamental structure of tkinter program :
@@ -16,6 +16,10 @@ Among all Tkinter is most widely used
 ![image](https://user-images.githubusercontent.com/33021781/129498549-c43118f2-6c9f-4cb6-ac95-e9eab65b940d.png)
 
 ## Basic tkinter Widgets:
+
+```
+widget = Widget(window, **options)
+```
 
 | Widget | Description |
 | ------ | ------ |
