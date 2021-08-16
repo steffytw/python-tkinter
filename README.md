@@ -17,7 +17,7 @@ Among all Tkinter is most widely used
 
 ## Basic tkinter Widgets:
 
-| Plugin | Description |
+| Widget | Description |
 | ------ | ------ |
 | Label | It is used to display text or image on the screen |
 | Button | It is used to add buttons to your application |
